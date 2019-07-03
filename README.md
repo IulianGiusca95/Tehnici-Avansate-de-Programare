@@ -1,1 +1,2 @@
-# FMI
+# Laborator - Tehnici Avansate de Programare
+
